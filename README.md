@@ -36,6 +36,7 @@
 - Expressjs
 - Nestjs
 - Nuxtjs
+- EC-CUBE
 
 ## Tools
 - Terraform
@@ -49,6 +50,11 @@
 
 ## Cloud
 - AWS
+- Firebase
+
+## Platform
+- Stripe
+- GMO Payment Gateway
 
 ## Database
 - MySQL
