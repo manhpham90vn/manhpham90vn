@@ -37,6 +37,7 @@
 - Nestjs
 - Nuxtjs
 - EC-CUBE
+- Metabase
 
 ## Tools
 - Terraform
