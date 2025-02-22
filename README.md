@@ -38,6 +38,7 @@
 - Nuxtjs
 - EC-CUBE
 - Metabase
+- Odoo
 
 ## Tools
 - Terraform
