@@ -7,5 +7,5 @@
 - [devtoolsx](https://github.com/manhpham90vn/devtoolsx): A collection of developer tools built with Tauri + React.
 - [1pass](https://github.com/manhpham90vn/1pass): A secure, local-first password and credential manager built with Tauri v2 (Rust + React).
 - [cloud_collector](https://github.com/manhpham90vn/cloud_collector): A high-performance, parallel AWS resource collector built in Rust. Efficiently collect and export AWS resources across multiple regions and services with intelligent concurrency control.
-- [xkey](https://github.com/manhpham90vn/xkey): A lightweight, high-performance Vietnamese Telex input method for Ubuntu, running as an IBus engine. Written in Rust.
+- [xkey](https://github.com/manhpham90vn/xkey): A lightweight, high-performance Vietnamese Telex input method for Linux (IBus) and macOS (InputMethodKit). Written in Rust.
 - [sys_monitor](https://github.com/manhpham90vn/sys_monitor): A lightweight system monitor that displays real-time metrics directly on the GNOME top panel via AppIndicator/System Tray.
