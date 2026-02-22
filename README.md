@@ -10,3 +10,9 @@
 - [xkey](https://github.com/manhpham90vn/xkey): A lightweight, high-performance Vietnamese Telex input method for Linux (IBus), macOS (InputMethodKit), and Windows. Written in Rust.
 - [sys_monitor](https://github.com/manhpham90vn/sys_monitor): A lightweight system monitor that displays real-time metrics directly on the GNOME top panel via AppIndicator/System Tray.
 - [side_monitor](https://github.com/manhpham90vn/side_monitor): Turn your iPhone, iPad, Android, MacBook, or Windows device into a real secondary monitor for Ubuntu.
+
+## Todo
+
+- Migration: WebSocket → QUIC [tunnel](https://github.com/manhpham90vn/tunnel/blob/main/todo.md)
+- Side Monitor — Implementation Roadmap [side_monitor](https://github.com/manhpham90vn/side_monitor/blob/master/TASK.md)
+- Streaming Subtitles Word-by-Word [kizuna_note](https://github.com/manhpham90vn/kizuna_note/blob/master/todo.md)
