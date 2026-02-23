@@ -13,6 +13,5 @@
 
 ## Todo
 
-- Migration: WebSocket → QUIC [tunnel](https://github.com/manhpham90vn/tunnel/blob/main/todo.md)
 - Side Monitor — Implementation Roadmap [side_monitor](https://github.com/manhpham90vn/side_monitor/blob/master/TASK.md)
 - Streaming Subtitles Word-by-Word [kizuna_note](https://github.com/manhpham90vn/kizuna_note/blob/master/todo.md)
