@@ -9,3 +9,4 @@
 - [cloud_collector](https://github.com/manhpham90vn/cloud_collector): A high-performance, parallel AWS resource collector built in Rust. Efficiently collect and export AWS resources across multiple regions and services with intelligent concurrency control.
 - [xkey](https://github.com/manhpham90vn/xkey): A lightweight, high-performance Vietnamese Telex input method for Linux (IBus), macOS (InputMethodKit), and Windows. Written in Rust.
 - [sys_monitor](https://github.com/manhpham90vn/sys_monitor): A lightweight system monitor that displays real-time metrics directly on the GNOME top panel via AppIndicator/System Tray.
+- [icode](https://github.com/manhpham90vn/icode): A multi-PC Telegram assistant that turns a group chat into a shared coding workspace. Each PC runs its own bot instance — when a task is sent, one PC claims it and executes it using the best available AI agent.
