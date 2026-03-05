@@ -11,3 +11,4 @@
 - [sys_monitor](https://github.com/manhpham90vn/sys_monitor): A lightweight system monitor that displays real-time metrics directly on the GNOME top panel via AppIndicator/System Tray.
 - [icode](https://github.com/manhpham90vn/icode): A multi-PC Telegram assistant that turns a group chat into a shared coding workspace. Each PC runs its own bot instance — when a task is sent, one PC claims it and executes it using the best available AI agent.
 - [iproxy](https://github.com/manhpham90vn/iproxy): iProxy is a personal-use Web Application that acts as a central gateway/proxy for communicating with Google AI services through multiple accounts. The project is based on the features of Antigravity-Manager (Tauri v2 desktop app) but ported to a web platform.
+- [x-ai](https://github.com/manhpham90vn/x-ai): https://github.com/manhpham90vn/x-ai
