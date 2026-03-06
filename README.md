@@ -1,15 +1,195 @@
-# Hi there
+# Hi there, I'm Manh Pham 👋
 
-## My works
+Software Engineer focused on building **scalable systems, developer tools, and end-to-end products** across **Full-Stack Development, DevOps, and Infrastructure**.
 
-- [tunnel](https://github.com/manhpham90vn/tunnel): A tunnel application that enables remote access between computers through a central relay server.
-- [https](https://github.com/manhpham90vn/https): A lightweight HTTPS reverse proxy written in Rust, designed for local development with Docker Compose.
-- [devtoolsx](https://github.com/manhpham90vn/devtoolsx): A collection of developer tools built with Tauri + React.
-- [1pass](https://github.com/manhpham90vn/1pass): A secure, local-first password and credential manager built with Tauri v2 (Rust + React).
-- [cloud_collector](https://github.com/manhpham90vn/cloud_collector): A high-performance, parallel AWS resource collector built in Rust. Efficiently collect and export AWS resources across multiple regions and services with intelligent concurrency control.
-- [xkey](https://github.com/manhpham90vn/xkey): A lightweight, high-performance Vietnamese Telex input method for Linux (IBus), macOS (InputMethodKit), and Windows. Written in Rust.
-- [sys_monitor](https://github.com/manhpham90vn/sys_monitor): A lightweight system monitor that displays real-time metrics directly on the GNOME top panel via AppIndicator/System Tray.
-- [icode](https://github.com/manhpham90vn/icode): A multi-PC Telegram assistant that turns a group chat into a shared coding workspace. Each PC runs its own bot instance — when a task is sent, one PC claims it and executes it using the best available AI agent.
-- [iproxy](https://github.com/manhpham90vn/iproxy): iProxy is a personal-use Web Application that acts as a central gateway/proxy for communicating with Google AI services through multiple accounts. The project is based on the features of Antigravity-Manager (Tauri v2 desktop app) but ported to a web platform.
-- [x-ai](https://github.com/manhpham90vn/x-ai): Multi-Agent AI Coding System — An orchestrator that coordinates two specialized AI agents (Planner and Executor) to autonomously analyze codebases, plan changes, implement code, and self-review with iterative quality improvement.
-- [OpenCompany](https://github.com/manhpham90vn/OpenCompany): A framework for developing SaaS products from idea to launch, built on Claude Code.
+I enjoy designing and implementing everything from **high-performance backend services** and **cloud infrastructure** to **cross-platform desktop/mobile applications**. My recent work also explores **AI-driven development workflows and automation systems**.
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+
+Rust · Go · Python · Node.js · JavaScript · TypeScript · PHP
+
+**Frontend & Web**
+
+React · Laravel
+
+**Mobile & Cross-Platform**
+
+Tauri · React Native · Flutter · iOS · Android
+
+**Infrastructure**
+
+AWS · Docker · Linux · DevOps Tooling
+
+**AI Systems**
+
+AI Agents · Workflow Orchestration · AI Coding Systems
+
+---
+
+# 🚀 Selected Projects
+
+Below is a curated selection of projects organized by domain.
+
+---
+
+# ☁️ DevOps & System Infrastructure
+
+Tools built for networking, local development environments, and cloud resource management.
+
+### cloud_collector
+High-performance parallel **AWS resource collector** written in Rust.
+
+Features:
+- Parallel resource collection across multiple regions
+- Intelligent concurrency control
+- Exportable structured outputs
+- Designed for large-scale AWS environments
+
+https://github.com/manhpham90vn/cloud_collector
+
+---
+
+### tunnel
+A lightweight tunneling system enabling **secure remote access between computers** via a central relay server.
+
+Use cases:
+- Remote development
+- Self-hosted services
+- Network bridging
+
+https://github.com/manhpham90vn/tunnel
+
+---
+
+### https
+Blazing-fast **HTTPS reverse proxy** written in Rust.
+
+Built for:
+- Local development
+- Docker Compose environments
+- Simple service routing
+
+https://github.com/manhpham90vn/https
+
+---
+
+# 💻 Web & Cross-Platform Applications
+
+Local-first tools and applications designed for **performance, privacy, and native user experience**.
+
+---
+
+### OpenCompany
+A development framework powered by Claude Code to rapidly build **SaaS products from idea to launch**.
+
+Features:
+- AI-assisted development workflow
+- Rapid product scaffolding
+- Automation for SaaS infrastructure
+
+https://github.com/manhpham90vn/OpenCompany
+
+---
+
+### iproxy
+Central web gateway for **managing and load-balancing Google AI services across multiple accounts**.
+
+Capabilities:
+- API routing
+- Account distribution
+- Usage balancing
+
+https://github.com/manhpham90vn/iproxy
+
+---
+
+### 1pass
+Secure **local-first password manager** built with Tauri v2 (Rust + React).
+
+Key goals:
+- Privacy-first design
+- Lightweight desktop application
+- No cloud dependency
+
+https://github.com/manhpham90vn/1pass
+
+---
+
+### devtoolsx
+A collection of essential **offline developer utilities** packaged into a fast Tauri desktop application.
+
+Includes:
+- Encoding tools
+- Network utilities
+- Developer productivity tools
+
+https://github.com/manhpham90vn/devtoolsx
+
+---
+
+### xkey
+Lightweight **Vietnamese Telex input method** written in Rust.
+
+Supports:
+- Linux (IBus)
+- macOS (InputMethodKit)
+- Windows
+
+Designed for **speed, low resource usage, and cross-platform support**.
+
+https://github.com/manhpham90vn/xkey
+
+---
+
+### sys_monitor
+A sleek **real-time system monitor** integrated into the GNOME top panel via AppIndicator/System Tray.
+
+Features:
+- Live CPU / RAM monitoring
+- Lightweight design
+- Native Linux integration
+
+https://github.com/manhpham90vn/sys_monitor
+
+---
+
+# 🤖 AI Agents & Automation
+
+Systems focused on **AI-powered development and automation workflows**.
+
+---
+
+### x-ai
+A **multi-agent AI coding system**.
+
+Architecture:
+- Orchestrator
+- Planner agent
+- Executor agent
+
+Capabilities:
+- Codebase analysis
+- Automated implementation
+- Self-review workflows
+
+https://github.com/manhpham90vn/x-ai
+
+---
+
+### icode
+Distributed **multi-PC Telegram coding assistant** that turns group chats into collaborative AI-powered coding workspaces.
+
+Features:
+- Task claiming
+- Multi-agent execution
+- Distributed development workflows
+
+https://github.com/manhpham90vn/icode
+
+---
+
+⭐ Feel free to explore the repositories, open issues, or contribute.
