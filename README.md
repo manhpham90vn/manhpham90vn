@@ -1,195 +1,63 @@
-# Hi there, I'm Manh Pham 👋
+# Hi, I'm Manh Pham 👋
 
-Software Engineer focused on building **scalable systems, developer tools, and end-to-end products** across **Full-Stack Development, DevOps, and Infrastructure**.
-
-I enjoy designing and implementing everything from **high-performance backend services** and **cloud infrastructure** to **cross-platform desktop/mobile applications**. My recent work also explores **AI-driven development workflows and automation systems**.
+Software Engineer focused on **scalable systems**, **developer tooling**, and **AI-driven automation** — across Full-Stack, DevOps, and Infrastructure.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-**Languages**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-Rust · Go · Python · Node.js · JavaScript · TypeScript · PHP
-
-**Frontend & Web**
-
-React · Laravel
-
-**Mobile & Cross-Platform**
-
-Tauri · React Native · Flutter · iOS · Android
-
-**Infrastructure**
-
-AWS · Docker · Linux · DevOps Tooling
-
-**AI Systems**
-
-AI Agents · Workflow Orchestration · AI Coding Systems
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
-# 🚀 Selected Projects
+## Projects
 
-Below is a curated selection of projects organized by domain.
+### 🤖 AI & Agents
 
----
+| Project | Description |
+|---------|-------------|
+| [x-ai](https://github.com/manhpham90vn/x-ai) | Multi-agent coding system — Orchestrator, Planner, Executor |
+| [icode](https://github.com/manhpham90vn/icode) | Distributed Telegram coding assistant across multiple PCs |
+| [iproxy](https://github.com/manhpham90vn/iproxy) | Central gateway for Google AI services across multiple accounts |
+| [OpenCompany](https://github.com/manhpham90vn/OpenCompany) | SaaS development framework powered by Claude Code |
 
-# ☁️ DevOps & System Infrastructure
+### ☁️ DevOps & Infrastructure
 
-Tools built for networking, local development environments, and cloud resource management.
+| Project | Description |
+|---------|-------------|
+| [cloud_collector](https://github.com/manhpham90vn/cloud_collector) | Parallel AWS resource collector with intelligent concurrency (Rust) |
+| [tunnel](https://github.com/manhpham90vn/tunnel) | Secure remote access tunneling via relay server |
+| [https](https://github.com/manhpham90vn/https) | Lightweight HTTPS reverse proxy for local dev (Rust) |
 
-### cloud_collector
-High-performance parallel **AWS resource collector** written in Rust.
+### 🖥️ Desktop & System
 
-Features:
-- Parallel resource collection across multiple regions
-- Intelligent concurrency control
-- Exportable structured outputs
-- Designed for large-scale AWS environments
+| Project | Description |
+|---------|-------------|
+| [1pass](https://github.com/manhpham90vn/1pass) | Local-first password manager — Tauri v2 (Rust + React) |
+| [devtoolsx](https://github.com/manhpham90vn/devtoolsx) | Offline developer utilities — Tauri + React |
+| [xkey](https://github.com/manhpham90vn/xkey) | Vietnamese Telex input method for Linux, macOS, Windows (Rust) |
+| [sys_monitor](https://github.com/manhpham90vn/sys_monitor) | Real-time system monitor in GNOME top panel (Rust) |
 
-https://github.com/manhpham90vn/cloud_collector
+### 📱 Mobile
 
----
-
-### tunnel
-A lightweight tunneling system enabling **secure remote access between computers** via a central relay server.
-
-Use cases:
-- Remote development
-- Self-hosted services
-- Network bridging
-
-https://github.com/manhpham90vn/tunnel
-
----
-
-### https
-Blazing-fast **HTTPS reverse proxy** written in Rust.
-
-Built for:
-- Local development
-- Docker Compose environments
-- Simple service routing
-
-https://github.com/manhpham90vn/https
+| Project | Description |
+|---------|-------------|
+| [MPInjector](https://github.com/manhpham90vn/MPInjector) | Lightweight Dependency Injection framework for iOS (Swift) |
 
 ---
 
-# 💻 Web & Cross-Platform Applications
-
-Local-first tools and applications designed for **performance, privacy, and native user experience**.
-
----
-
-### OpenCompany
-A development framework powered by Claude Code to rapidly build **SaaS products from idea to launch**.
-
-Features:
-- AI-assisted development workflow
-- Rapid product scaffolding
-- Automation for SaaS infrastructure
-
-https://github.com/manhpham90vn/OpenCompany
-
----
-
-### iproxy
-Central web gateway for **managing and load-balancing Google AI services across multiple accounts**.
-
-Capabilities:
-- API routing
-- Account distribution
-- Usage balancing
-
-https://github.com/manhpham90vn/iproxy
-
----
-
-### 1pass
-Secure **local-first password manager** built with Tauri v2 (Rust + React).
-
-Key goals:
-- Privacy-first design
-- Lightweight desktop application
-- No cloud dependency
-
-https://github.com/manhpham90vn/1pass
-
----
-
-### devtoolsx
-A collection of essential **offline developer utilities** packaged into a fast Tauri desktop application.
-
-Includes:
-- Encoding tools
-- Network utilities
-- Developer productivity tools
-
-https://github.com/manhpham90vn/devtoolsx
-
----
-
-### xkey
-Lightweight **Vietnamese Telex input method** written in Rust.
-
-Supports:
-- Linux (IBus)
-- macOS (InputMethodKit)
-- Windows
-
-Designed for **speed, low resource usage, and cross-platform support**.
-
-https://github.com/manhpham90vn/xkey
-
----
-
-### sys_monitor
-A sleek **real-time system monitor** integrated into the GNOME top panel via AppIndicator/System Tray.
-
-Features:
-- Live CPU / RAM monitoring
-- Lightweight design
-- Native Linux integration
-
-https://github.com/manhpham90vn/sys_monitor
-
----
-
-# 🤖 AI Agents & Automation
-
-Systems focused on **AI-powered development and automation workflows**.
-
----
-
-### x-ai
-A **multi-agent AI coding system**.
-
-Architecture:
-- Orchestrator
-- Planner agent
-- Executor agent
-
-Capabilities:
-- Codebase analysis
-- Automated implementation
-- Self-review workflows
-
-https://github.com/manhpham90vn/x-ai
-
----
-
-### icode
-Distributed **multi-PC Telegram coding assistant** that turns group chats into collaborative AI-powered coding workspaces.
-
-Features:
-- Task claiming
-- Multi-agent execution
-- Distributed development workflows
-
-https://github.com/manhpham90vn/icode
-
----
-
-⭐ Feel free to explore the repositories, open issues, or contribute.
+*Feel free to explore, open issues, or contribute.*
