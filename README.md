@@ -34,6 +34,7 @@ Software Engineer focused on **scalable systems**, **developer tooling**, and **
 | [icode](https://github.com/manhpham90vn/icode) | Distributed Telegram coding assistant across multiple PCs |
 | [iproxy](https://github.com/manhpham90vn/iproxy) | Central gateway for Google AI services across multiple accounts |
 | [OpenCompany](https://github.com/manhpham90vn/OpenCompany) | SaaS development framework powered by Claude Code |
+| [claude-remote-control](https://github.com/manhpham90vn/claude-remote-control) | Telegram bot to control Claude Agent via chat |
 
 ### ☁️ DevOps & Infrastructure
 
