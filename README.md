@@ -30,6 +30,7 @@ Software Engineer focused on **scalable systems**, **developer tooling**, and **
 
 | Project | Description |
 |---------|-------------|
+| [code](https://github.com/manhpham90vn/code) | AI Coding Assistant CLI powered by Claude API |
 | [x-ai](https://github.com/manhpham90vn/x-ai) | Multi-agent coding system — Orchestrator, Planner, Executor |
 | [icode](https://github.com/manhpham90vn/icode) | Distributed Telegram coding assistant across multiple PCs |
 | [iproxy](https://github.com/manhpham90vn/iproxy) | Central gateway for Google AI services across multiple accounts |
