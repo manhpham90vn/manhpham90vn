@@ -26,22 +26,10 @@ Software Engineer focused on **scalable systems**, **developer tooling**, and **
 
 ## Projects
 
-### 🤖 AI & Agents
-
-| Project | Description |
-|---------|-------------|
-| [code](https://github.com/manhpham90vn/code) | AI Coding Assistant CLI powered by Claude API |
-| [x-ai](https://github.com/manhpham90vn/x-ai) | Multi-agent coding system — Orchestrator, Planner, Executor |
-| [icode](https://github.com/manhpham90vn/icode) | Distributed Telegram coding assistant across multiple PCs |
-| [iproxy](https://github.com/manhpham90vn/iproxy) | Central gateway for Google AI services across multiple accounts |
-| [OpenCompany](https://github.com/manhpham90vn/OpenCompany) | SaaS development framework powered by Claude Code |
-| [claude-remote-control](https://github.com/manhpham90vn/claude-remote-control) | Telegram bot to control Claude Agent via chat |
-
 ### ☁️ DevOps & Infrastructure
 
 | Project | Description |
 |---------|-------------|
-| [cloud_collector](https://github.com/manhpham90vn/cloud_collector) | Parallel AWS resource collector with intelligent concurrency (Rust) |
 | [tunnel](https://github.com/manhpham90vn/tunnel) | Secure remote access tunneling via relay server |
 | [https](https://github.com/manhpham90vn/https) | Lightweight HTTPS reverse proxy for local dev (Rust) |
 
@@ -49,16 +37,7 @@ Software Engineer focused on **scalable systems**, **developer tooling**, and **
 
 | Project | Description |
 |---------|-------------|
-| [1pass](https://github.com/manhpham90vn/1pass) | Local-first password manager — Tauri v2 (Rust + React) |
-| [devtoolsx](https://github.com/manhpham90vn/devtoolsx) | Offline developer utilities — Tauri + React |
 | [xkey](https://github.com/manhpham90vn/xkey) | Vietnamese Telex input method for Linux, macOS, Windows (Rust) |
-| [sys_monitor](https://github.com/manhpham90vn/sys_monitor) | Real-time system monitor in GNOME top panel (Rust) |
-
-### 📱 Mobile
-
-| Project | Description |
-|---------|-------------|
-| [MPInjector](https://github.com/manhpham90vn/MPInjector) | Lightweight Dependency Injection framework for iOS (Swift) |
 
 ---
 
