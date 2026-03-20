@@ -28,7 +28,7 @@ Software Engineer focused on **scalable systems**, **developer tooling**, and **
 
 | Project | Description |
 |---------|-------------|
-| [free-tools](https://github.com/manhpham90vn/free-tools) | A MITM proxy that intercepts requests from Antigravity IDE and forwards them to any LLM provider |
+| [free-antigravity](https://github.com/manhpham90vn/free-antigravity) | A MITM proxy that intercepts requests from Antigravity IDE and forwards them to any LLM provider |
 | [tunnel](https://github.com/manhpham90vn/tunnel) | Secure remote access tunneling via relay server |
 | [https](https://github.com/manhpham90vn/https) | Lightweight HTTPS reverse proxy for local dev (Rust) |
 | [xkey](https://github.com/manhpham90vn/xkey) | Vietnamese Telex input method for Linux, macOS, Windows (Rust) |
