@@ -21,17 +21,3 @@ Software Engineer focused on **scalable systems**, **developer tooling**, and **
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
----
-
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [tunnel](https://github.com/manhpham90vn/tunnel) | Secure remote access tunneling via relay server |
-| [https](https://github.com/manhpham90vn/https) | Lightweight HTTPS reverse proxy for local dev (Rust) |
-| [xkey](https://github.com/manhpham90vn/xkey) | Vietnamese Telex input method for Linux, macOS, Windows (Rust) |
-
----
-
-*Feel free to explore, open issues, or contribute.*
